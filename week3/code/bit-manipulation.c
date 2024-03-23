@@ -41,7 +41,7 @@ int main(){
 //    bitwiseXOR(a, b);
 //    bitwiseNOT(a);
 //    leftShift(a, shiftPositions);
-//    rightShift(a, shiftPositions);
+   rightShift(a, shiftPositions);
 
    return 0;
 }
