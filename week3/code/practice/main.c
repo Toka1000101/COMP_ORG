@@ -45,6 +45,7 @@ void test_show_bytes(int val) {
    //  const char *m = "mnopqr";
    //  show_bytes((byte_pointer) m, 3);
     
+    // 2.12
     int x = 0x87654321;
     int first = x & 0xFF;
     int second = x ^ ~0xFF;
